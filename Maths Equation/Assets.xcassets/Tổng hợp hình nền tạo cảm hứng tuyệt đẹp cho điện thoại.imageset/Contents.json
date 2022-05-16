@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Tổng hợp hình nền tạo cảm hứng tuyệt đẹp cho điện thoại.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
